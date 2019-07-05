@@ -1,5 +1,4 @@
 1. Git basic commands
-<<<<<<< HEAD
        - git init
        - git status
        - git add
@@ -24,7 +23,6 @@
        - git pull origin master
        - git push origin master (--force) (!!)
        - git push origin -u master (upstream set - first push)
-=======
         -git init
         -git status
         -git add
@@ -38,3 +36,5 @@
 >>>>>>> parent of c278b46... po wszystkim
 
 
+=======
+>>>>>>> parent of 23efc9d... jakies gowno dwa
