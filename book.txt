@@ -1,0 +1,15 @@
+Contents list
+
+1. Git basic commands
+        -git init
+        -git status
+        -git add
+        -git rm --cached
+        -git commit
+        -git commie --amend  /// zmiana nazwy commit ctrl+o ctrl +x
+        -git log
+
+
+
+
+
